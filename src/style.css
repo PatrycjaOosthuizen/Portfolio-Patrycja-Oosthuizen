@@ -1,14 +1,60 @@
 body {
-  background: linear-gradient(#1e152e, #161616);
-}
-h1 {
-  font-family: "EB Garamond", serif;
-  color: white;
-}
-
-p {
   font-family: "Poppins", sans-serif;
-  color: white;
+}
+p {
   font-weight: 200;
   font-style: normal;
+}
+.hero {
+  background: url(/src/hero.jpg);
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+  color: white;
+  padding: 130px;
+}
+.hero h2 {
+  font-size: 20px;
+}
+.hero h1 {
+  font-size: 67px;
+}
+@keyframes morph {
+  0%,
+  100% {
+    border-radius: 42% 56% 72% 28%/42% 42% 56% 48%;
+  }
+  33% {
+    border-radius: 72% 28% 48% 48%/ 28% 28% 72% 72%;
+  }
+  66% {
+    border-radius: 100% 56% 56% 100% / 100% 100% 56% 56%;
+  }
+}
+.blob {
+  overflow: hidden;
+  width: 28rem;
+  height: 28rem;
+  border-radius: 42% 56% 72% 28%/42%42%56%48%;
+  background: url(/src/portfolio-photo.PNG);
+  background-size: cover;
+  background-position: center;
+  animation: morph 5.75s linear infinite;
+}
+.hero-text {
+  padding-left: 80px;
+  margin-top: 130px;
+  text-align: start;
+  font-size: 20px;
+}
+.fa-brands {
+  font-size: 45px;
+  color: white;
+}
+.fa-square-envelope {
+  color: white;
+  font-size: 45px;
+}
+strong {
+  color: #00c9ec;
 }
