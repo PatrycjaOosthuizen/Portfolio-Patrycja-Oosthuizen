@@ -1,0 +1,14 @@
+body {
+  background: linear-gradient(#1e152e, #161616);
+}
+h1 {
+  font-family: "EB Garamond", serif;
+  color: white;
+}
+
+p {
+  font-family: "Poppins", sans-serif;
+  color: white;
+  font-weight: 200;
+  font-style: normal;
+}
