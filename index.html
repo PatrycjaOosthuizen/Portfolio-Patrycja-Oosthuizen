@@ -62,18 +62,18 @@
       <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
         <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
           <li class="nav-item active">
-            <a class="nav-link active" href="#"
-              >Home<span class="sr-only">(current)</span></a
-            >
+            <a class="nav-link active" href="/"
+              >Home<span class="sr-only"></span
+            ></a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">About</a>
+            <a class="nav-link" href="/about.html" target="_blank">About</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Projects</a>
+            <a class="nav-link" href="#projects">Projects</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Contact me</a>
+            <a class="nav-link" href="#contactMe">Contact me</a>
           </li>
         </ul>
       </div>
@@ -97,9 +97,6 @@
               applications I developed. Head over to my projects page to see my
               work.
             </p>
-            <a href="#" class="mt-5 btn-branding" title="Contact Patrycja">
-              Contact Me</a
-            >
           </div>
           <div class="row col-md-6 d-flex blob"></div>
         </div>
@@ -400,7 +397,7 @@
         <span class="visually-hidden">Next</span>
       </button>
     </div>
-    <div><h2 class="heading-text">Selected projects</h2></div>
+    <div><h2 class="heading-text" id="projects">Selected projects</h2></div>
     <div id="carouselProjectsControls" class="carousel">
       <div class="carousel-inner">
         <div class="carousel-item active">
@@ -605,10 +602,10 @@
                 class="contact-form"
                 autocomplete="off"
                 id="my-form"
-                action="https://formspree.io/f/mnqrzeqo"
+                action="https://formspree.io/f/xleqqqnq"
                 method="post"
               >
-                <h4>Send me a message</h4>
+                <h4 id="contactMe">Send me a message</h4>
                 <div class="mb-2">
                   <input
                     type="text"
@@ -649,6 +646,57 @@
       </div>
     </div>
 
+    <footer>
+      <div>
+        <h5>Useful Links</h5>
+        <ul>
+          <li>
+            <a href="/" title="Home">Home</a>
+          </li>
+          <li>
+            <a href="/about.html" target="_blank" title="About">About</a>
+          </li>
+          <li>
+            <a href="#projects" title="Projects">Projects</a>
+          </li>
+          <li>
+            <a href="https://www.freepik.com/ " target="_blank"
+              >Hero image designed by / Freepik
+            </a>
+          </li>
+          <span class="social-links">
+            <a
+              href="https://github.com/PatrycjaOosthuizen"
+              target="_blank"
+              title="Patrycja's GitHub"
+            >
+              <i class="fa-brands fa-github"></i
+            ></a>
+            <a
+              href="https://www.linkedin.com/in/patrycja-oosthuizen-1b077993/"
+              target="_blank"
+              title="Patrycja's Linkedln"
+            >
+              <i class="fa-brands fa-linkedin"></i
+            ></a>
+            <a
+              href="https://www.shecodes.io/graduates/104913-patrycja-oosthuizen"
+              target="_blank"
+              ><i class="footer-btn fa-solid fa-graduation-cap"></i
+            ></a>
+          </span>
+          <div>
+            <p class="footer-paragraph">
+              <i class="fa-solid fa-code"></i> © 2024 Patrycja Oosthuizen<img
+                class="po-code-logo"
+                src="/src/logo-transparent-blue.png"
+                title="Patrycja's logo"
+              />
+            </p>
+          </div>
+        </ul>
+      </div>
+    </footer>
     <script src="/js/index.js"></script>
   </body>
 </html>
