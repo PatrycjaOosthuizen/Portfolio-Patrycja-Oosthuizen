@@ -35,17 +35,54 @@
 
   <body class="mb-2">
     <nav
-      class="navbar navbar-expand-lg navbar-dark fixed-top"
+      class="navbar navbar-expand-sm navbar-dark fixed-top py-3"
       style="background-color: #004565"
     >
       <a class="navbar-brand" href="/"
         ><img
           src="src/logo-transparent-blue.png"
           alt="Patrycja's Logo"
-          width="45"
-          height="45"
+          width="80"
+          height="80"
           class="d-inline-block align-text-top ms-4"
       /></a>
+
+      <span class="toggle me-3 mt-4">
+        <input type="checkbox" id="btn" />
+        <label for="btn">
+          <span class="track">
+            <span class="track-top">
+              <span></span>
+              <span></span>
+              <span></span>
+              <span></span>
+              <span></span>
+              <span></span>
+              <span></span>
+              <span></span>
+              <span></span>
+              <span></span>
+            </span>
+            <span class="track-bot">
+              <span></span>
+              <span></span>
+              <span></span>
+              <span></span>
+              <span></span>
+              <span></span>
+              <span></span>
+              <span></span>
+              <span></span>
+              <span></span>
+            </span>
+          </span>
+          <span class="thumb"></span>
+        </label>
+        <div class="lights">
+          <span class="light-off" data-lang="EN" data-translate="langEN"></span>
+          <span class="light-on" data-lang="PL" data-translate="langPL"></span>
+        </div>
+      </span>
 
       <button
         class="navbar-toggler"
@@ -61,16 +98,28 @@
 
       <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
         <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
-          <li class="nav-item active">
-            <a class="nav-link active" href="/"
+          <li class="nav-item">
+            <a
+              class="nav-link active"
+              aria-current="page"
+              href="/"
+              data-translate="navHome"
               >Home<span class="sr-only"></span
             ></a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="/about.html" target="_blank">About</a>
+            <a
+              class="nav-link"
+              href="/about.html"
+              target="_blank"
+              data-translate="navAbout"
+              >About</a
+            >
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#projects">Projects</a>
+            <a class="nav-link" href="#projects" data-translate="navProjects"
+              >Projects</a
+            >
           </li>
           <li class="nav-item">
             <a class="nav-link" href="#contactMe">Contact me</a>

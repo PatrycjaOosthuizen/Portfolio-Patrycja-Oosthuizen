@@ -1,3 +1,56 @@
+const toggleMenu = () => document.body.classList.toggle("open");
+
+document.addEventListener("DOMContentLoaded", function () {
+  console.log("Index script DOMContentLoaded");
+
+  function toggleLanguage() {
+    let switchElement = document.getElementById("btn");
+    let language = switchElement.checked ? "PL" : "EN";
+    translatePage(language);
+  }
+  function translatePage(language) {
+    console.log("Current language:", language);
+    const elementsToTranslate = document.querySelectorAll("[data-translate]");
+
+    elementsToTranslate.forEach((element) => {
+      const translationKey = element.getAttribute("data-translate");
+      const translatedText = translations[translationKey]
+        ? translations[translationKey][language]
+        : null;
+
+      if (translatedText) {
+        console.log(`Translating "${translationKey}" to "${translatedText}"`);
+        element.textContent = translatedText;
+      } else {
+        console.warn(`Translation not found for key "${translationKey}"`);
+      }
+    });
+  }
+  let switchElement = document.getElementById("btn");
+  switchElement.addEventListener("click", toggleLanguage);
+
+  toggleLanguage();
+});
+
+document.addEventListener("DOMContentLoaded", function () {
+  console.log("Translation script loaded");
+});
+
+const translations = {
+  navHome: {
+    EN: "Home",
+    PL: "STRONA GLOWNA",
+  },
+  navAbout: {
+    EN: "About",
+    PL: "O MNIE",
+  },
+  navProjects: {
+    EN: "Projects",
+    PL: "PROJEKTY",
+  },
+};
+
 var form = document.getElementById("my-form");
 
 async function handleSubmit(event) {
