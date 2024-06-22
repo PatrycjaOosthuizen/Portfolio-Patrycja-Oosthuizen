@@ -39,7 +39,7 @@ document.addEventListener("DOMContentLoaded", function () {
 const translations = {
   navHome: {
     EN: "Home",
-    PL: "STRONA GLOWNA",
+    PL: "STRONA GŁÓWNA",
   },
   navAbout: {
     EN: "About",
