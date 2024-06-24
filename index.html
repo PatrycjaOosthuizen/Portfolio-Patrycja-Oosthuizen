@@ -127,7 +127,9 @@
             >
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#contactMe">Contact me</a>
+            <a class="nav-link" href="#contactMe" data-translate="navContact"
+              >Contact me</a
+            >
           </li>
         </ul>
       </div>
@@ -137,29 +139,56 @@
       <div class="hero">
         <div class="row d-lg-flex justify-content-evenly">
           <div class="col-md-6 hero-text">
-            <h2>
+            <h2 data-translate="homePageWelcome">
               <i class="fa-solid fa-user-astronaut"></i> Welcome to my digital
               space, my name is
             </h2>
             <h1>Patrycja Oosthuizen</h1>
-            <h2>I am a Jr. Front-End developer based in London, UK.</h2>
+            <h2 data-translate="homePageTitle">
+              I am a Jr. Front-End developer based in London, UK.
+            </h2>
             <p class="intro-text">
-              Within my portfolio, I showcase a panel of significant
-              achievements and tackled challenges. I applied my skills in
-              <strong>HTML, CSS, JavaScript, React</strong> incorporating
-              <strong>Bootstrap </strong> to design pages on various topics. I
-              also integrated <strong>APIs</strong> and
-              <strong>AI APIs </strong>to increase the functionality of the
-              applications I developed. Head over to my
-              <strong><a href="#projects">projects</a></strong> page to see my
-              work.
+              <span data-translate="introPart1"
+                >Within my portfolio, I showcase a panel of significant
+                achievements and tackled challenges. I applied my skills
+                in</span
+              >
+              <span class="styling" data-translate="codingLan">
+                HTML, CSS, JavaScript, React
+              </span>
+              <span data-translate="introPart2">incorporating</span>
+
+              <span class="styling" data-translate="bootstrap">
+                Bootstrap
+              </span>
+              <span data-translate="introPart3">
+                to design pages on various topics. I also integrated</span
+              >
+
+              <span class="styling" data-translate="api">APIs</span>
+              <span data-translate="introPart4">and</span>
+              <span class="styling" data-translate="apiS"> >AI APIs </span>
+              <span data-translate="introPart5"
+                >to increase the functionality of the applications I developed.
+                Head over to my</span
+              >
+
+              <strong
+                ><a href="#projects" data-translate="homePageIntroLink"
+                  >projects
+                </a> </strong
+              ><span data-translate="introPart6"> page to see my work.</span>
             </p>
           </div>
           <div class="row col-md-6 d-flex blob"></div>
         </div>
       </div>
     </header>
-    <div><h2 class="heading-text">Certificates</h2></div>
+    <div>
+      <h2 class="heading-text" id="certificates" data-translate="cert">
+        Certificates
+      </h2>
+    </div>
     <div id="carouselCertificatesControls" class="carousel">
       <div class="carousel-inner">
         <div class="carousel-item active">
@@ -173,16 +202,16 @@
             </div>
             <div class="card-body">
               <h5 class="card-title">SheCodes Front-End</h5>
-              <p class="card-text">
+              <p class="card-text" data-translate="certCard1">
                 I gained a solid foundation in web development. This program
                 provided me with the necessary tools to start a Front-End
                 career.
               </p>
 
-              <a href="#" class="btn btn-primary"
-                ><i class="fa-solid fa-arrow-up-right-from-square"></i> view
-                certificate</a
-              >
+              <a href="#" class="btn btn-primary">
+                <i class="fa-solid fa-arrow-up-right-from-square"></i> view
+                certificate
+              </a>
             </div>
           </div>
         </div>
@@ -197,7 +226,7 @@
             </div>
             <div class="card-body">
               <h5 class="card-title">SheCodes Basics</h5>
-              <p class="card-text">
+              <p class="card-text" data-translate="certCard2">
                 I learned the basics of HTML, style with CSS, build interaction
                 with JavaScript, and craft my very first interactive landing
                 page.
@@ -223,7 +252,7 @@
             </div>
             <div class="card-body">
               <h5 class="card-title">SheCodes Basics Add-on</h5>
-              <p class="card-text">
+              <p class="card-text" data-translate="certCard3">
                 I learned HTML class manipilation and advanced CSS : background
                 properties, transform, grids, change theme.
               </p>
@@ -248,9 +277,9 @@
             </div>
             <div class="card-body">
               <h5 class="card-title">SheCodes Plus</h5>
-              <p class="card-text">
+              <p class="card-text" data-translate="certCard4">
                 I advanced my web development skills, mastering HTML, CSS and
-                JavaScript.
+                Java Script.
               </p>
               <a
                 href="https://www.shecodes.io/certificates/48e35d9c4888c447480611e0f3996c19"
@@ -273,7 +302,7 @@
             </div>
             <div class="card-body">
               <h5 class="card-title">SheCodes Plus Add-on</h5>
-              <p class="card-text">
+              <p class="card-text" data-translate="certCard5">
                 I built website with live data using APIs, advanced JavaScript
                 and modern coding tools.
               </p>
@@ -298,7 +327,7 @@
             </div>
             <div class="card-body">
               <h5 class="card-title">SheCodes AI</h5>
-              <p class="card-text">
+              <p class="card-text" data-translate="certCard6">
                 I learned to build applications using Artificial Intelligence,
                 SheCodes AI API.
               </p>
@@ -323,7 +352,7 @@
             </div>
             <div class="card-body">
               <h5 class="card-title">SheCodes Responsive</h5>
-              <p class="card-text">
+              <p class="card-text" data-translate="certCard7">
                 I learned how to code responsive websites that adapt to any
                 device.
               </p>
@@ -348,7 +377,7 @@
             </div>
             <div class="card-body">
               <h5 class="card-title">Responsive Add-on</h5>
-              <p class="card-text">
+              <p class="card-text" data-translate="certCard8">
                 I learned responsive design techniques and CSS frameworks like
                 Bootstrap to ensure an optimal user experience.
               </p>
@@ -373,9 +402,9 @@
             </div>
             <div class="card-body">
               <h5 class="card-title">SheCodes React</h5>
-              <p class="card-text">
+              <p class="card-text" data-translate="certCard9">
                 I learned how to build highly interactive weather app using the
-                React.js framework.
+                React.js.
               </p>
               <a
                 href="https://www.shecodes.io/certificates/c0d1d258760fe5cd711a9600303dbd80"
@@ -398,9 +427,9 @@
             </div>
             <div class="card-body">
               <h5 class="card-title">SheCodes React Add-on</h5>
-              <p class="card-text">
+              <p class="card-text" data-translate="certCard10">
                 I learned how to build fully functional dictionary app using the
-                React.js framework and APIs.
+                React.js and APIs.
               </p>
               <a
                 href="https://www.shecodes.io/certificates/616e280db383c280cb6662f48d9adabf"
@@ -423,7 +452,7 @@
             </div>
             <div class="card-body">
               <h5 class="card-title">SheCodes Next</h5>
-              <p class="card-text">
+              <p class="card-text" data-translate="certCard11">
                 This career workshop helped me to understand how to build
                 portfolio and motivated me to keep coding.
               </p>
@@ -454,7 +483,11 @@
         <span class="visually-hidden">Next</span>
       </button>
     </div>
-    <div><h2 class="heading-text" id="projects">Selected projects</h2></div>
+    <div>
+      <h2 class="heading-text" id="projects" data-translate="projects">
+        Selected projects
+      </h2>
+    </div>
     <div id="carouselProjectsControls" class="carousel">
       <div class="carousel-inner">
         <div class="carousel-item active">
@@ -467,8 +500,10 @@
               />
             </div>
             <div class="card-body">
-              <h5 class="card-title">React Weather App</h5>
-              <p class="card-text">
+              <h5 class="card-title" data-translate="project1Heding">
+                React Weather App
+              </h5>
+              <p class="card-text" data-translate="project1">
                 This weather application was the final project of my SheCodes
                 React workshop. It includes a search engine and displays results
                 powered by the OpenWeatherMap API.
@@ -493,8 +528,10 @@
               />
             </div>
             <div class="card-body">
-              <h5 class="card-title">AI Wishes Generator</h5>
-              <p class="card-text">
+              <h5 class="card-title" data-translate="project2Heding">
+                AI Wishes Generator
+              </h5>
+              <p class="card-text" data-translate="project2">
                 AI-powered wishes generator is build with HTML, Vanilla Java
                 Script, CSS and SheCodes API. Users can select various option
                 from drop down menu to find words for any occasion.
@@ -519,8 +556,10 @@
               />
             </div>
             <div class="card-body">
-              <h5 class="card-title">Travel Guide</h5>
-              <p class="card-text">
+              <h5 class="card-title" data-translate="project3Heding">
+                Travel Guide
+              </h5>
+              <p class="card-text" data-translate="project3">
                 I built responsive page using HTML and Vanilla CSS. Goal of this
                 project was to create website about something I am passionate
                 about. I chose Bermuda where I've been lucky to live and work.
@@ -545,8 +584,10 @@
               />
             </div>
             <div class="card-body">
-              <h5 class="card-title">Panda Dictionary</h5>
-              <p class="card-text">
+              <h5 class="card-title" data-translate="project4Heding">
+                Panda Dictionary
+              </h5>
+              <p class="card-text" data-translate="project4">
                 The user-friendly interactive dictionary includes a search
                 engine, displays meanings, synonyms, phonetics and photos
                 powered by the Dictionary and Pexels APIs.
@@ -571,8 +612,10 @@
               />
             </div>
             <div class="card-body">
-              <h5 class="card-title">World Clock App</h5>
-              <p class="card-text">
+              <h5 class="card-title" data-translate="project5Heding">
+                World Clock App
+              </h5>
+              <p class="card-text" data-translate="project5">
                 The user-friendly dashboard shows time in four distinct
                 locations. Select from a list of 59 cities using a dropdown
                 menu. Customize experience with a choice between light and dark
@@ -598,13 +641,18 @@
               />
             </div>
             <div class="card-body">
-              <h5 class="card-title">Vanilla Weather App</h5>
-              <p class="card-text">
+              <h5 class="card-title" data-translate="project6Heding">
+                Vanilla Weather App
+              </h5>
+              <p class="card-text" data-translate="project6">
                 Switch between Celsius and Fahrenheit units to check the current
                 temperature. This app is powered by the SheCodes Weather API,
                 ensuring accurate and up-to-date weather information.
               </p>
-              <a href="#" class="btn btn-primary" target="_blank"
+              <a
+                href="https://weather-app-patrycja-codes.netlify.app/"
+                class="btn btn-primary"
+                target="_blank"
                 ><i class="fa-solid fa-arrow-up-right-from-square"></i> launch
                 project</a
               >
@@ -638,8 +686,15 @@
           <div class="row">
             <div class="col-sm-6">
               <div class="text-section">
-                <h2 class="mb-2">Let's <strong>Connect!</strong></h2>
-                <p class="contact-me-paragraph m-0 mb-3 mb-md-4">
+                <h2 class="mb-2" data-translate="contact1">Let's</h2>
+                <h1 class="styling-contact" data-translate="contact2">
+                  Connect!
+                </h1>
+
+                <p
+                  class="contact-me-paragraph m-0 mb-3 mb-md-4"
+                  data-translate="contactParagraph"
+                >
                   If you are looking for a passionate Junior Front-end
                   Developer, <br />
                   do not hesitate to contact me!✨
@@ -662,7 +717,9 @@
                 action="https://formspree.io/f/xleqqqnq"
                 method="post"
               >
-                <h4 id="contactMe">Send me a message</h4>
+                <h4 id="contactMe" data-translate="message">
+                  Send me a message
+                </h4>
                 <div class="mb-2">
                   <input
                     type="text"
@@ -692,7 +749,12 @@
                     required
                   ></textarea>
                 </div>
-                <button type="submit" id="my-form-button" class="btn-branding">
+                <button
+                  type="submit"
+                  id="my-form-button"
+                  class="btn-branding"
+                  data-translate="contactBtn"
+                >
                   Contact me
                 </button>
                 <p id="my-form-status" class="mt-2"></p>

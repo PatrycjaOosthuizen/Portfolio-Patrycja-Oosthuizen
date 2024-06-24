@@ -10,7 +10,7 @@
   --tr: all 0.5s ease 0s;
   --lg: var(--of);
 }
-
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap");
 body {
   background: var(--primary-color);
   font-family: var(--default-font-family);
@@ -18,8 +18,6 @@ body {
 .nav-link {
   font-size: 20px;
 }
-
-@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap");
 
 .toggle {
   position: relative;
@@ -317,7 +315,7 @@ label[for="btn"] {
 }
 
 .lights span:before {
-  content: "ENGLISH";
+  content: "ENG";
   font-size: calc(var(--sz) / 1.6);
   text-align: center;
   width: 200%;
@@ -331,7 +329,7 @@ label[for="btn"] {
 }
 
 .lights span + span:before {
-  content: "POLISH";
+  content: "POL";
   --lg: var(--gr);
 }
 
@@ -415,8 +413,14 @@ h6,
 h6 a {
   color: var(--secondary-color);
 }
-strong {
+.styling {
   color: var(--secondary-color);
+  font-weight: 600;
+}
+.styling-contact {
+  color: var(--secondary-color);
+  font-weight: 600;
+  font-size: 70px;
 }
 .hero-container {
   background: url(/src/hero.jpg);
