@@ -134,7 +134,7 @@ const translations = {
     PL: "Nauczyłam się budować aplikacje z wykorzystaniem sztucznej inteligencji, SheCodes API AI.",
   },
   certCard7: {
-    EN: "I learned how to code responsive websites that adapt to any device.",
+    EN: "I learned how to code responsive websites that adapt to any screen size of any device.",
     PL: "Nauczyłam się budować responsywne strony internetowe, które dostosowują się rozmiarem do każdego urządzenia.",
   },
   certCard8: {

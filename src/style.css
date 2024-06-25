@@ -678,14 +678,11 @@ footer p {
 footer .po-code-logo {
   max-width: 23px;
 }
-@media (max-width: 1200px) {
-}
-@media (max-width: 992px) {
+
+@media (min-width: 768px) {
   .carousel {
     margin-top: 50px;
   }
-}
-@media (min-width: 768px) {
   .carousel-item {
     margin-right: 0;
     flex: 0 0 33.333333%;
@@ -707,14 +704,97 @@ footer .po-code-logo {
   }
 
   .carousel {
-    margin-top: 700px;
+    margin-top: 70px;
   }
   .card .img-wrapper {
     height: 17em;
   }
 }
 @media (max-width: 576px) {
+  :root {
+    --sz: 5.1vmin;
+  }
   body {
     margin: 0 20px;
+  }
+  .toggle {
+    width: calc(var(--sz) * 6);
+    height: calc(var(--sz) * 2);
+  }
+  .nav-link {
+    font-size: 15px;
+    text-align: end;
+    padding-right: 12px;
+  }
+  .hero-container {
+    padding-top: 2px;
+  }
+  .hero-container h2 {
+    font-size: 20px;
+  }
+  .hero-container h1 {
+    font-size: 33px;
+  }
+  .hero-text {
+    padding-left: 38px;
+    margin-top: 28px;
+    text-align: start;
+  }
+  .intro-text {
+    margin-top: 25px;
+    margin-bottom: 20px;
+    font-size: 16px;
+    line-height: 22px;
+    font-weight: 350;
+  }
+
+  .heading-text {
+    margin-top: 830px;
+  }
+  .blob {
+    width: 18rem;
+    height: 18rem;
+    margin-top: 5px;
+  }
+  .carousel {
+    margin-top: 45px;
+    margin-bottom: 10px;
+  }
+
+  .contact-me-wrap {
+    padding-top: 10px;
+  }
+  .contact-me .text-section {
+    padding: 22px 8px 2px 8px;
+  }
+  form {
+    padding: 12px 8px 22px 8px;
+  }
+  .contact-me h1 {
+    font-size: 48px;
+  }
+  .contact-me h2 {
+    font-size: 43px;
+    line-height: 44px;
+  }
+  .contact-me h4 {
+    font-size: 16px;
+  }
+  .contact-me-paragraph {
+    font-size: 14px;
+    line-height: 16px;
+  }
+  .contacts i {
+    padding: 3px;
+    font-size: 15px;
+  }
+  .contact-me button {
+    font-size: 15px;
+  }
+  footer {
+    height: 24vh;
+  }
+  body {
+    margin: 0 2px;
   }
 }
