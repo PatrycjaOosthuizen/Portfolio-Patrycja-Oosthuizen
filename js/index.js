@@ -216,7 +216,7 @@ const translations = {
 
   contactParagraph: {
     EN: "If you are looking for a passionate Junior Front-end Developer, do not hesitate to contact me!✨",
-    PL: "Jeśli szukasz Junior Front-end Developera z pasją, skontaktuj się ze mną✨",
+    PL: "Jeśli szukasz Junior Front-end Developera z pasją, skontaktuj się ze mną!✨",
   },
   message: {
     EN: "Send me a message",
@@ -225,6 +225,70 @@ const translations = {
   contactBtn: {
     EN: "Contact me",
     PL: "Wyślij wiadomość",
+  },
+  footerHeading: {
+    EN: "Useful Links",
+    PL: "Linki",
+  },
+  footerLiHome: {
+    EN: "Home",
+    PL: "STRONA GŁÓWNA",
+  },
+  footerLiAbout: {
+    EN: "About",
+    PL: "O MNIE",
+  },
+  footerLiProjects: {
+    EN: "Projects",
+    PL: "PROJEKTY",
+  },
+  aboutHeading: {
+    EN: "Hi, I am Patrycja Jr. Front-End Developer, from Poland based in London, United Kingdom.",
+    PL: "Witam, mam na imię Patrycja jestem Junior Front-End Developer",
+  },
+  aboutMeP1: {
+    EN: "I'm a self-motivated junior developer with a solid foundation and strong passion for technology. My journey began with a significant career change, and since then I discovered a world I'm truly passionate about. I gained my knowledge on intensive",
+    PL: "Moja przygoda i pasja do programowania rozpoczęła się na intensywnym",
+  },
+  aboutMeP2: {
+    EN: "Front-End Bootcamp",
+    PL: "Front-End Bootcamp",
+  },
+  aboutMeP3: {
+    EN: "I've honed skills in:",
+    PL: "gdzie zdobyłam i doskonaliłam swoje umiejętności w",
+  },
+  aboutMeP4: {
+    EN: "I continuously developing my coding skills, currently completing",
+    PL: "Wciąż rozszerzam swoją wiedzę, obecnie rozpoczęłam kurs",
+  },
+  aboutMeP5: {
+    EN: "CS50’s Introduction to programming with Python on Harvard University.",
+    PL: "CS50's Wprowadzenie do programowania z Python na Uniwersytecie Harvard.",
+  },
+  aboutMeP6: {
+    EN: "My goal is to become full stack developer. I'm looking for the right opportunity to develop my career. I'm life long learner outgoing and ambitious, with a strong desire for self-improvement, both personally and professionally.",
+    PL: "Moim celem jest kontynuowanie nauki aby rozszerzyć wiedzę do full-stack. Poszukuję korzystnych warunków do rozwoju swojej kariery. Posiadam umiejetność analitycznego myślenia, samodzielnego rozwiązywania problemów i ogromną pasję do technologii. Jestem osobą ambitną która pragnie samodoskonalenia, zarówno osobistego, jak i zawodowego.",
+  },
+  aboutFactsHeading: {
+    EN: "Random facts about me:",
+    PL: "Przypadkowe fakty o mnie:",
+  },
+  aboutFact1: {
+    EN: "The kitchen is my zen place. From experimenting with new recipes to mixing batters, baking and cooking is where I find peace and joy in creating delicious food and treats.",
+    PL: "Kuchnia to moje miejsce zen. Od eksperymentowania z nowymi przepisami po mieszanie ciasta, pieczenie i gotowanie – tutaj znajduję spokój i radość w tworzeniu pysznych dań i smakołyków.",
+  },
+  aboutFact2: {
+    EN: "Whenever I feel creative or on adventure with my family, I always carry camera with me. I love the art of preserving memories in their most authentic form. You can find my videos on",
+    PL: "Zawsze, gdy mam ochotę zrobić coś twórczego lub wybrać się na przygodę z rodziną, zawsze noszę ze sobą aparat. Uwielbiam sztukę zachowywania wspomnień w ich najbardziej autentycznej formie. Moje filmy znajdziesz na",
+  },
+  aboutFact3: {
+    EN: "Reading is my escape from reality. When I find a moment of silence, I immerse myself with books and articles on various topics.",
+    PL: "Czytanie jest moją odskocznią od rzeczywistości. Kiedy znajduję chwilę ciszy, zanurzam się w książkach i artykułach o różnej tematyce.",
+  },
+  aboutFact4: {
+    EN: "I am a bit of clean freak. I love symmetry and balance, to me that's what cleaning is all about. Some people watch TV to relax after a busy day. I clean! 🙃",
+    PL: "Lubię sprzątać, uwielbiam symetrię i równowagę, a w sprzątaniu właśnie o to chodzi. Można by pomyśleć, że mam obsesję na punkcie czystego domu. W rzeczywistości przy dwójce dzieci w domu jest to niemożliwe! Lubię sprzątać dom pod koniec dnia. Niektórzy ludzie oglądają telewizję, aby odpocząć po pracowitym dniu. Ja sprzątam! 🙃",
   },
 };
 
