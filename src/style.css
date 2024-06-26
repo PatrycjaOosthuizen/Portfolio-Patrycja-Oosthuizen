@@ -835,6 +835,10 @@ footer .po-code-logo {
     margin-top: 45px;
     margin-bottom: 10px;
   }
+  .heading-facts {
+    font-size: 18px;
+    text-decoration: underline;
+  }
 
   .contact-me-wrap {
     padding-top: 10px;
