@@ -428,8 +428,8 @@ h6 a {
   background-position: center;
   text-align: center;
   color: #ffff;
-  padding-top: 140px;
-  height: 100vh;
+  padding-top: 90px;
+  height: 90vh;
 }
 .hero-container h2 {
   font-size: 28px;
@@ -460,7 +460,7 @@ h6 a {
   background-size: cover;
   background-position: center;
   animation: morph 5.75s linear infinite;
-  margin-top: 70px;
+  margin-top: 10px;
 }
 .blob2 {
   overflow: hidden;
@@ -559,9 +559,6 @@ h6 a {
   transform: translateY(-50%);
 }
 
-.contact-me-wrap {
-  padding-top: 10px;
-}
 .contact-me h2 {
   font-size: 64px;
   font-weight: 600;
@@ -588,7 +585,7 @@ h4 {
   padding: 100px 10px 10px 270px;
 }
 form {
-  padding: 100px 80px 32px 0;
+  padding: 40px 80px 40px 0;
   max-width: 520px;
 }
 
@@ -629,7 +626,7 @@ form {
   border: none;
   color: #ffff;
   font-weight: 800;
-  font-size: 16px;
+  font-size: 19px;
   line-height: 24px;
   padding: 16px 32px;
   text-transform: uppercase;
@@ -645,7 +642,7 @@ footer {
   background: url("/src/hero.jpg");
   background-repeat: no-repeat;
   background-size: cover;
-  height: 22vh;
+  height: 25vh;
   padding-top: 10px;
 }
 footer h5 {
@@ -677,6 +674,53 @@ footer p {
 }
 footer .po-code-logo {
   max-width: 23px;
+}
+@media (min-width: 992px) {
+  .hero-container {
+    padding-top: 60px;
+    height: 90vh;
+    background-position: center;
+  }
+  .hero-container h2 {
+    font-size: 28px;
+  }
+  .hero-container h1 {
+    font-size: 65px;
+  }
+  .hero-text {
+    padding-left: 48px;
+    margin-top: 18px;
+    text-align: start;
+  }
+  .intro-text {
+    font-size: 21px;
+    line-height: 32px;
+    font-weight: 350;
+    margin-top: 75px;
+  }
+  .blob {
+    width: 35rem;
+    height: 35rem;
+    margin: 0 auto;
+    display: block;
+    margin-top: 10px;
+  }
+  .blob2 {
+    width: 32rem;
+    height: 32rem;
+  }
+  .about-me-heading {
+    font-size: 35px;
+  }
+  .about-me-text {
+    margin-bottom: 20px;
+    font-size: 21px;
+    line-height: 29px;
+  }
+  form {
+    padding: 40px 80px 40px 0;
+    max-width: 520px;
+  }
 }
 
 @media (min-width: 768px) {
