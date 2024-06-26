@@ -58,8 +58,8 @@ const translations = {
     PL: "Witam w mojej cyfrowej przestrzeni, nazywam się",
   },
   homePageTitle: {
-    EN: "I am a Jr. Front-End developer based in London, UK.",
-    PL: "Jestem Jr. Front-End developerem w Londynie",
+    EN: "I am a Jr. Front-end developer based in London, UK.",
+    PL: "Jestem Jr. Front-end developerem w Londynie",
   },
   introPart1: {
     EN: "Within my portfolio, I showcase a panel of significant achievements and tackled challenges. I applied my skills in",
@@ -110,8 +110,8 @@ const translations = {
     PL: "Certyfikaty",
   },
   certCard1: {
-    EN: "I gained a solid foundation in web development. This program provided me with the necessary tools to start a Front-End career.",
-    PL: "Na kursie zdobyłam wiedzę i solidne podstawy w tworzeniu stron internetowych. Ten program zapewnił mi niezbędne narzędzia do rozpoczęcia kariery Front-End developer.",
+    EN: "I gained a solid foundation in web development. This program provided me with the necessary tools to start a Front-end career.",
+    PL: "Na kursie zdobyłam wiedzę i solidne podstawy w tworzeniu stron internetowych. Ten program zapewnił mi niezbędne narzędzia do rozpoczęcia kariery Front-end developer.",
   },
   certCard2: {
     EN: "I learned the basics of HTML, style with CSS, build interaction with JavaScript, and craft my very first interactive landing page.",
@@ -198,7 +198,7 @@ const translations = {
     PL: "Przyjazny dla użytkownika pulpit nawigacyjny pokazuje czas w czterech różnych lokalizacjach oraz listę 59 miast do wyboru. Zawiera opcję zmiany tła pomiędzy trybem jasnym a ciemnym.",
   },
   project6Heding: {
-    EN: "Vanilla Weather App",
+    EN: "Vanilla JS Weather App",
     PL: "Aplikacja Pogodowa - Vanilla JavaScript",
   },
   project6: {
@@ -243,8 +243,8 @@ const translations = {
     PL: "PROJEKTY",
   },
   aboutHeading: {
-    EN: "Hi, I am Patrycja Jr. Front-End Developer, from Poland based in London, United Kingdom.",
-    PL: "Witam, mam na imię Patrycja jestem Junior Front-End Developer",
+    EN: "Hi, I am Patrycja Jr. Front-end Developer, from Poland based in London, United Kingdom.",
+    PL: "Witam, mam na imię Patrycja jestem Junior Front-end Developer",
   },
   aboutMeP1: {
     EN: "I'm a self-motivated junior developer with a solid foundation and strong passion for technology. My journey began with a significant career change, and since then I discovered a world I'm truly passionate about. I gained my knowledge on intensive",

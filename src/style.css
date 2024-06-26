@@ -511,6 +511,7 @@ h6 a {
   line-height: 31px;
   margin-bottom: 40px;
   font-size: 20px;
+  font-weight: 350;
 }
 .shecodes {
   color: #9f61f4;
@@ -677,7 +678,7 @@ footer .po-code-logo {
 }
 @media (min-width: 992px) {
   .hero-container {
-    padding-top: 60px;
+    padding-top: 75px;
     height: 90vh;
     background-position: center;
   }
