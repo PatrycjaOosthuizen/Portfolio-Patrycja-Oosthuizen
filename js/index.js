@@ -268,7 +268,7 @@ const translations = {
   },
   aboutMeP6: {
     EN: "My goal is to become full stack developer. I'm looking for the right opportunity to develop my career. I'm life long learner outgoing and ambitious, with a strong desire for self-improvement, both personally and professionally.",
-    PL: "Moim celem jest kontynuowanie nauki aby rozszerzyć wiedzę do full-stack. Poszukuję korzystnych warunków do rozwoju swojej kariery. Posiadam umiejetność analitycznego myślenia, samodzielnego rozwiązywania problemów i ogromną pasję do technologii. Jestem osobą ambitną która pragnie samodoskonalenia, zarówno osobistego, jak i zawodowego.",
+    PL: "Moim celem jest kontynuowanie nauki aby rozszerzyć wiedzę do full-stack. Poszukuję firmy z korzystnymi warunkami do rozwoju swojej kariery. Posiadam umiejetność analitycznego myślenia, samodzielnego rozwiązywania problemów i ogromną pasję do technologii. Jestem osobą ambitną która pragnie samodoskonalenia, zarówno osobistego, jak i zawodowego.",
   },
   aboutFactsHeading: {
     EN: "Random facts about me:",

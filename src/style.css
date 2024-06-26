@@ -676,6 +676,7 @@ footer p {
 footer .po-code-logo {
   max-width: 23px;
 }
+
 @media (min-width: 992px) {
   .hero-container {
     padding-top: 75px;
