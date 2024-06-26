@@ -267,8 +267,8 @@ const translations = {
     PL: "CS50's wprowadzenie do programowania z Python na Uniwersytecie Harvard.",
   },
   aboutMeP6: {
-    EN: "My goal is to become full stack developer. I'm looking for the right opportunity to develop my career. I'm life long learner outgoing and ambitious, with a strong desire for self-improvement, both personally and professionally.",
-    PL: "Moim celem jest kontynuowanie nauki aby rozszerzyć wiedzę do full-stack. Poszukuję firmy z korzystnymi warunkami do rozwoju swojej kariery. Posiadam umiejetność analitycznego myślenia, samodzielnego rozwiązywania problemów i ogromną pasję do technologii. Jestem osobą ambitną która pragnie samodoskonalenia, zarówno osobistego, jak i zawodowego.",
+    EN: "My goal is to become full stack developer. Currenly I'm seeking challenging, dynamic and rewarding career in a growth oriented organisation where I can apply my skills and gain knowledge. I'm life long learner outgoing and ambitious, with a strong desire for self-improvement, both personally and professionally.",
+    PL: "Moim celem jest kontynuowanie nauki aby rozszerzyć wiedzę do full-stack. Obecnie poszukuję pełnej wyzwań, dynamicznej firmy z korzystnymi warunkami do rozwoju swojej kariery. Posiadam umiejetność analitycznego myślenia, samodzielnego rozwiązywania problemów i ogromną pasję do technologii. Jestem osobą ambitną która pragnie samodoskonalenia, zarówno osobistego, jak i zawodowego.",
   },
   aboutFactsHeading: {
     EN: "Random facts about me:",
@@ -288,7 +288,7 @@ const translations = {
   },
   aboutFact4: {
     EN: "I am a bit of clean freak. I love symmetry and balance, to me that's what cleaning is all about. Some people watch TV to relax after a busy day. I clean! 🙃",
-    PL: "Lubię sprzątać, uwielbiam symetrię i równowagę, a w sprzątaniu właśnie o to chodzi. Można by pomyśleć, że mam obsesję na punkcie czystego domu. W rzeczywistości przy dwójce dzieci w domu jest to niemożliwe! Lubię sprzątać dom pod koniec dnia. Niektórzy ludzie oglądają telewizję, aby odpocząć po pracowitym dniu. Ja sprzątam! 🙃",
+    PL: "Lubię sprzątać, uwielbiam symetrię i równowagę, a w sprzątaniu właśnie o to chodzi. Niektórzy ludzie oglądają telewizję, aby odpocząć po pracowitym dniu. Ja sprzątam! 🙃",
   },
 };
 
