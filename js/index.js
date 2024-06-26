@@ -207,7 +207,7 @@ const translations = {
   },
   contact1: {
     EN: "Let's",
-    PL: "Skontaktuj się!",
+    PL: "Kontakt ze mną!",
   },
   contact2: {
     EN: "Connect!",
@@ -264,7 +264,7 @@ const translations = {
   },
   aboutMeP5: {
     EN: "CS50’s Introduction to programming with Python on Harvard University.",
-    PL: "CS50's Wprowadzenie do programowania z Python na Uniwersytecie Harvard.",
+    PL: "CS50's wprowadzenie do programowania z Python na Uniwersytecie Harvard.",
   },
   aboutMeP6: {
     EN: "My goal is to become full stack developer. I'm looking for the right opportunity to develop my career. I'm life long learner outgoing and ambitious, with a strong desire for self-improvement, both personally and professionally.",
@@ -272,7 +272,7 @@ const translations = {
   },
   aboutFactsHeading: {
     EN: "Random facts about me:",
-    PL: "Przypadkowe fakty o mnie:",
+    PL: "Kilka faktów o mnie:",
   },
   aboutFact1: {
     EN: "The kitchen is my zen place. From experimenting with new recipes to mixing batters, baking and cooking is where I find peace and joy in creating delicious food and treats.",
