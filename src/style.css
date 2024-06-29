@@ -679,7 +679,8 @@ footer .po-code-logo {
 
 @media (min-width: 992px) {
   .hero-container {
-    padding-top: 75px;
+    padding-top: 45px;
+    padding-left: 30px;
     height: 90vh;
     background-position: center;
   }
@@ -698,14 +699,14 @@ footer .po-code-logo {
     font-size: 21px;
     line-height: 32px;
     font-weight: 350;
-    margin-top: 75px;
+    margin-top: 45px;
   }
   .blob {
-    width: 35rem;
-    height: 35rem;
+    width: 37rem;
+    height: 37rem;
     margin: 0 auto;
     display: block;
-    margin-top: 10px;
+    margin-right: 60px;
   }
   .blob2 {
     width: 32rem;
