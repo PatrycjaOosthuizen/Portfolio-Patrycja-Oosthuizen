@@ -54,8 +54,8 @@ const translations = {
     PL: "KONTAKT",
   },
   homePageWelcome: {
-    EN: "Welcome to my digital space, my name is",
-    PL: "Witam w mojej cyfrowej przestrzeni, nazywam się",
+    EN: "Welcome to my digital space! My name is",
+    PL: "Witam w mojej cyfrowej przestrzeni! Nazywam się",
   },
   homePageTitle: {
     EN: "I am a Jr. Front-end developer based in London, UK.",
@@ -66,8 +66,8 @@ const translations = {
     PL: "W swoim portfolio przedstawiam panel osiągnięć i projektów. Użyłam :",
   },
   codingLan: {
-    EN: "HTML, CSS, JavaScript, React",
-    PL: "HTML, CSS, JavaScript, React",
+    EN: "HTML/CSS, JavaScript and React",
+    PL: "HTML/CSS, JavaScript i React",
   },
   introPart2: {
     EN: "incorporating",
@@ -114,11 +114,11 @@ const translations = {
     PL: "Na kursie zdobyłam wiedzę i solidne podstawy w tworzeniu stron internetowych. Ten program zapewnił mi niezbędne narzędzia do rozpoczęcia kariery Front-end developer.",
   },
   certCard2: {
-    EN: "I learned the basics of HTML, style with CSS, build interaction with JavaScript, and craft my very first interactive landing page.",
+    EN: "I learned the basics of HTML, style with CSS, build interaction with JavaScript, and craft my first interactive landing page.",
     PL: "Nauczyłam się podstaw HTML, CSS, budowania interakcji z JavaScript i stworzyłam moją pierwszą interaktywną stronę internetową.",
   },
   certCard3: {
-    EN: "I learned HTML class manipilation and advanced CSS : background properties, transform, grids, change theme.",
+    EN: "I learned HTML class manipulation and advanced CSS: background properties, transform, grids and change theme.",
     PL: "Nauczyłam się manipulowania klasami HTML i zaawansowanych opcji w CSS: background properties, transform, grids, change theme. ",
   },
   certCard4: {
@@ -126,7 +126,7 @@ const translations = {
     PL: "Rozwinęłam swoje umiejętności tworzenia stron internetowych, szlifując HTML, CSS i JavaScript.",
   },
   certCard5: {
-    EN: "I built website with live data using APIs, advanced JavaScript and modern coding tools.",
+    EN: "I built a website with live data using APIs, advanced JavaScript and modern coding tools.",
     PL: "Zbudowałam stronę internetową z bieżącymi danymi wykorzystując API i JavaScript.",
   },
   certCard6: {
@@ -142,15 +142,15 @@ const translations = {
     PL: "Nauczyłam się techniki projektowania responsywnego i CSS framework- Bootstrap.",
   },
   certCard9: {
-    EN: "I learned how to build highly interactive weather app using the React.js.",
+    EN: "I learned how to build a highly interactive weather app using React.js.",
     PL: "Nauczyłam się, jak zbudować wysoce interaktywną aplikację pogodową przy użyciu React.js.",
   },
   certCard10: {
-    EN: "I learned how to build fully functional dictionary app using the React.js and APIs.",
+    EN: "I learned how to build a fully functional dictionary app using React.js and APIs.",
     PL: "Nauczyłam się, jak zbudować w pełni funkcjonalną aplikację-słownik angielski  przy użyciu React.js i API",
   },
   certCard11: {
-    EN: "This career workshop helped me to understand how to build portfolio and motivated me to challenge myself.",
+    EN: "This career workshop helped me to understand how to build a portfolio and motivated me to continuously challenge myself.",
     PL: "Ten warsztat pomógł mi zbudować portfolio, przygotował i zmotywował do ciągłego udoskonalania aby rozpocząć karierę programisty.",
   },
   projects: {
@@ -170,7 +170,7 @@ const translations = {
     PL: "Generator Życzeń AI ",
   },
   project2: {
-    EN: "AI-powered wishes generator is build with HTML, Vanilla JavaScript, CSS and SheCodes API. Users can select various option from drop down menu to find words for any occasion.",
+    EN: "AI-powered wishes generator is built with HTML, Vanilla JavaScript, CSS and SheCodes API. Users can select various options from the drop-down menu to find words for any occasion.",
     PL: "Generator życzeń zbudowany przy użyciu AI , HTML, Vanilla Java Script, CSS i SheCodes API. Użytkownicy mogą wybierać różne opcje z rozwijanego menu, aby znaleźć słowa na każdą okazję.",
   },
   project3Heding: {
@@ -178,7 +178,7 @@ const translations = {
     PL: "Przewodnik Turystyczny",
   },
   project3: {
-    EN: "I built responsive page using HTML and Vanilla CSS. Goal of this project was to create website about something I am passionate about. I chosed Bermuda where I've been lucky to live and work.",
+    EN: "I built a responsive page using HTML and Vanilla CSS. The goal of this project was to create a website about something I am passionate about. I chose Bermuda where I've been lucky to live and work.",
     PL: "Zbudowałam responsywną stronę przy użyciu HTML i Vanilla CSS. Celem tego projektu było stworzenie strony internetowej o pasji do czegoś. Wybrałam Bermudy, gdzie miałam szczęście mieszkać i pracować.",
   },
   project4Heding: {
@@ -186,7 +186,7 @@ const translations = {
     PL: "Słownik Panda",
   },
   project4: {
-    EN: "The user-friendly interactive dictionary includes a search engine, displays meanings, synonyms, phonetics and photos powered by the Dictionary and Pexels APIs.",
+    EN: "The user-friendly interactive dictionary includes a search engine that displays meanings, synonyms, phonetics and photos powered by the Dictionary and Pexels APIs.",
     PL: "Przyjazny dla użytkownika interaktywny słownik który zawiera wyszukiwarkę, wyświetla znaczenia, synonimy i fonetykę słów wraz z obrazkami, z wykorzystaniem APIs dictionary i Pexels.",
   },
   project5Heding: {
@@ -247,7 +247,7 @@ const translations = {
     PL: "Witam, mam na imię Patrycja jestem Junior Front-end Developer",
   },
   aboutMeP1: {
-    EN: "I'm a self-motivated junior developer with a solid foundation and strong passion for technology. My journey began with a significant career change, and since then I discovered a world I'm truly passionate about. I gained my knowledge on intensive",
+    EN: "I'm a self-motivated junior developer with a solid foundation and a strong passion for technology. My journey began with a significant career change, and since then I discovered a world I'm truly passionate about. I gained my knowledge on intensive",
     PL: "Moja przygoda i pasja do programowania rozpoczęła się na intensywnym",
   },
   aboutMeP2: {
@@ -255,7 +255,7 @@ const translations = {
     PL: "Front-End Bootcamp",
   },
   aboutMeP3: {
-    EN: "I've honed skills in:",
+    EN: "I've honed skills in",
     PL: "gdzie zdobyłam i doskonaliłam swoje umiejętności w",
   },
   aboutMeP4: {
@@ -263,11 +263,11 @@ const translations = {
     PL: "Wciąż rozszerzam swoją wiedzę, obecnie rozpoczęłam kurs",
   },
   aboutMeP5: {
-    EN: "CS50’s Introduction to programming with Python on Harvard University.",
+    EN: "CS50’s Introduction to Programming with Python at Harvard University.",
     PL: "CS50's wprowadzenie do programowania z Python na Uniwersytecie Harvard.",
   },
   aboutMeP6: {
-    EN: "My goal is to become full stack developer. Currenly I'm seeking challenging, dynamic and rewarding career in a growth oriented organisation where I can apply my skills and gain knowledge. I'm life long learner outgoing and ambitious, with a strong desire for self-improvement, both personally and professionally.",
+    EN: "My goal is to become a full stack developer. Currently I'm seeking a challenging, dynamic and rewarding career in a growth-oriented organisation where I can apply my skills and gain knowledge. I'm lifelong learner outgoing and ambitious, with a strong desire for self-improvement, both personally and professionally.",
     PL: "Moim celem jest kontynuowanie nauki aby rozszerzyć wiedzę do full-stack. Obecnie poszukuję pełnej wyzwań, dynamicznej firmy z korzystnymi warunkami do rozwoju swojej kariery. Posiadam umiejetność analitycznego myślenia, samodzielnego rozwiązywania problemów i ogromną pasję do technologii. Jestem osobą ambitną która pragnie samodoskonalenia, zarówno osobistego, jak i zawodowego.",
   },
   aboutFactsHeading: {
@@ -279,15 +279,15 @@ const translations = {
     PL: "Kuchnia to moje miejsce zen. Od eksperymentowania z nowymi przepisami po mieszanie ciasta, pieczenie i gotowanie – tutaj znajduję spokój i radość w tworzeniu pysznych dań i smakołyków.",
   },
   aboutFact2: {
-    EN: "Whenever I feel creative or on adventure with my family, I always carry camera with me. I love the art of preserving memories in their most authentic form. You can find my videos on",
+    EN: "Whenever I feel creative or on an adventure with my family, I always carry a camera with me. I love the art of preserving memories in their most authentic form. You can find my videos on",
     PL: "Zawsze, gdy mam ochotę zrobić coś twórczego lub wybrać się na przygodę z rodziną, zawsze noszę ze sobą aparat. Uwielbiam sztukę zachowywania wspomnień w ich najbardziej autentycznej formie. Moje filmy znajdziesz na",
   },
   aboutFact3: {
-    EN: "Reading is my escape from reality. When I find a moment of silence, I immerse myself with books and articles on various topics.",
+    EN: "Reading is my escape from reality. When I find a moment of silence, I immerse myself in books and articles on various topics.",
     PL: "Czytanie jest moją odskocznią od rzeczywistości. Kiedy znajduję chwilę ciszy, zanurzam się w książkach i artykułach o różnej tematyce.",
   },
   aboutFact4: {
-    EN: "I am a bit of clean freak. I love symmetry and balance, to me that's what cleaning is all about. Some people watch TV to relax after a busy day. I clean! 🙃",
+    EN: "I am a bit of a clean freak. I love symmetry and balance, to me that's what cleaning is all about. Some people watch TV to relax after a busy day. I clean! 🙃",
     PL: "Lubię sprzątać, uwielbiam symetrię i równowagę, a w sprzątaniu właśnie o to chodzi. Niektórzy ludzie oglądają telewizję, aby odpocząć po pracowitym dniu. Ja sprzątam! 🙃",
   },
 };
