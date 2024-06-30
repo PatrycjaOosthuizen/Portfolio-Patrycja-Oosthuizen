@@ -5,7 +5,7 @@ I am passionate junior front-end developer, and this is where I showcase my cert
 #About Me:
 *  👩‍💻 Designing and developing web applications.
 *  🔭 Motivated to learn and grow.
-*  📸 I love the art of preserving memories in their most authentic form, taking photos and creating videos is my passion.
+*  📸 I love the art of preserving memories in their most authentic form by taking photos and creating videos.
 
 Check out [my portfolio 👀](https://portfolio-patrycja-oosthuizen.netlify.app/)
 
