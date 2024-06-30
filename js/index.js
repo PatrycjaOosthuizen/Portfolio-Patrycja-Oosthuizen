@@ -63,7 +63,7 @@ const translations = {
   },
   introPart1: {
     EN: "Within my portfolio, I showcase a panel of significant achievements and tackled challenges. I applied my skills in",
-    PL: "W swoim portfolio przedstawiam panel osiągnięć i projektów. Użyłam :",
+    PL: "W swoim portfolio przedstawiam panel osiągnięć i projektów. Użyłam ",
   },
   codingLan: {
     EN: "HTML/CSS, JavaScript and React",
@@ -111,47 +111,47 @@ const translations = {
   },
   certCard1: {
     EN: "I gained a solid foundation in web development. This program provided me with the necessary tools to start a Front-end career.",
-    PL: "Na kursie zdobyłam wiedzę i solidne podstawy w tworzeniu stron internetowych. Ten program zapewnił mi niezbędne narzędzia do rozpoczęcia kariery Front-end developer.",
+    PL: "Uczestnictwo w tym kursie pozwoliło mi zdobyć wiedzę i solidne podstawy w tworzeniu stron internetowych. Ten program zapewnił mi niezbędne narzędzia do rozpoczęcia kariery Front-end developer.",
   },
   certCard2: {
     EN: "I learned the basics of HTML, style with CSS, build interaction with JavaScript, and craft my first interactive landing page.",
     PL: "Nauczyłam się podstaw HTML, CSS, budowania interakcji z JavaScript i stworzyłam moją pierwszą interaktywną stronę internetową.",
   },
   certCard3: {
-    EN: "I learned HTML class manipulation and advanced CSS: background properties, transform, grids and change theme.",
-    PL: "Nauczyłam się manipulowania klasami HTML i zaawansowanych opcji w CSS: background properties, transform, grids, change theme. ",
+    EN: "I gained knowledge about HTML class manipulation and advanced CSS: background properties, transform, grids and change theme.",
+    PL: "Poznałam techniki manipulowania klasami HTML i zaawansowanych opcji w CSS: background properties, transform, grids, change theme. ",
   },
   certCard4: {
     EN: "I advanced my web development skills, mastering HTML, CSS and JavaScript.",
-    PL: "Rozwinęłam swoje umiejętności tworzenia stron internetowych, szlifując HTML, CSS i JavaScript.",
+    PL: "Rozwinęłam swoje umiejętności tworzenia stron internetowych, doskonaląc HTML, CSS i JavaScript.",
   },
   certCard5: {
     EN: "I built a website with live data using APIs, advanced JavaScript and modern coding tools.",
     PL: "Zbudowałam stronę internetową z bieżącymi danymi wykorzystując API i JavaScript.",
   },
   certCard6: {
-    EN: "I learned to build applications using Artificial Intelligence, SheCodes AI API.",
+    EN: "I understand how to build applications using Artificial Intelligence, SheCodes AI API.",
     PL: "Nauczyłam się budować aplikacje z wykorzystaniem sztucznej inteligencji, SheCodes API AI.",
   },
   certCard7: {
-    EN: "I learned how to code responsive websites that adapt to any screen size of any device.",
-    PL: "Nauczyłam się budować responsywne strony internetowe, które dostosowują się rozmiarem do każdego urządzenia.",
+    EN: "I acquired knowledge how to code responsive websites that adapt to any screen size of any device.",
+    PL: "Opanowałam wiedzę w zakresie budowania responsywnych stron internetowych, które dostosowują się rozmiarem do każdego urządzenia.",
   },
   certCard8: {
-    EN: "I learned responsive design techniques and CSS framework - Bootstrap to ensure an optimal user experience.",
-    PL: "Nauczyłam się techniki projektowania responsywnego i CSS framework- Bootstrap.",
+    EN: "I mastered responsive design techniques and CSS framework - Bootstrap to ensure an optimal user experience.",
+    PL: "Udoskonaliłam techniki projektowania responsywnego i CSS framework- Bootstrap.",
   },
   certCard9: {
-    EN: "I learned how to build a highly interactive weather app using React.js.",
+    EN: "I acquired proficiency in how to build a highly interactive weather app using React.js.",
     PL: "Nauczyłam się, jak zbudować wysoce interaktywną aplikację pogodową przy użyciu React.js.",
   },
   certCard10: {
-    EN: "I learned how to build a fully functional dictionary app using React.js and APIs.",
-    PL: "Nauczyłam się, jak zbudować w pełni funkcjonalną aplikację-słownik angielski  przy użyciu React.js i API",
+    EN: "I learned how to develop a fully functional dictionary app using React.js and APIs.",
+    PL: "Opanowałam wiedzę, jak zbudować w pełni funkcjonalną aplikację-słownik angielski  przy użyciu React.js i API",
   },
   certCard11: {
     EN: "This career workshop helped me to understand how to build a portfolio and motivated me to continuously challenge myself.",
-    PL: "Ten warsztat pomógł mi zbudować portfolio, przygotował i zmotywował do ciągłego udoskonalania aby rozpocząć karierę programisty.",
+    PL: "Ten warsztat pomógł mi dopracować portfolio, przygotował i zmotywował do ciągłego udoskonalania aby rozpocząć karierę programisty.",
   },
   projects: {
     EN: "Selected projects",
