@@ -12,3 +12,5 @@ Check out [my portfolio 👀](https://portfolio-patrycja-oosthuizen.netlify.app/
 # Connect with me:
 * 📧 Email: [oosthuizen.code@gmail.com](oosthuizen.code@gmail.com)
 * 💼 LinkedIn: [Patrycja Oosthuizen 👀](https://www.linkedin.com/in/patrycja-oosthuizen/)
+
+<img width="1424" alt="portfolio img" src="https://github.com/PatrycjaOosthuizen/Portfolio-Patrycja-Oosthuizen/assets/152764771/7e9c4964-266f-4878-bcee-e071df2853a6">
