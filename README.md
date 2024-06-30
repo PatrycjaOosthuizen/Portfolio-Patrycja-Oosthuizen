@@ -11,4 +11,4 @@ Check out my portfolio [here] https://portfolio-patrycja-oosthuizen.netlify.app
 
 # Connect with me:
 📧 Email: [here]oosthuizen.code@gmail.com
-💼 LinkedIn:[here]https://www.linkedin.com/in/patrycja-oosthuizen/
+💼 LinkedIn:Patrycja Oosthuizen[here]https://www.linkedin.com/in/patrycja-oosthuizen/
