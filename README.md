@@ -10,5 +10,5 @@ I am passionate junior front-end developer, and this is where I showcase my cert
 Check out [here](https://portfolio-patrycja-oosthuizen.netlify.app/) my portfolio 👀
 
 # Connect with me:
-📧 Email: [here](oosthuizen.code@gmail.com)
+📧 Email: [oosthuizen.code@gmail.com](oosthuizen.code@gmail.com)
 💼 LinkedIn:[here](https://www.linkedin.com/in/patrycja-oosthuizen/) Patrycja Oosthuizen 👀
