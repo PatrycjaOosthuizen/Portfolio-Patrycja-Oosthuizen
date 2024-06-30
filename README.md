@@ -7,7 +7,7 @@ I am passionate junior front-end developer, and this is where I showcase my cert
 *  🔭 Motivated to learn and grow.
 *  📸 I love the art of preserving memories in their most authentic form, taking photos and creating videos is my passion.
 
-Check out [here](https://portfolio-patrycja-oosthuizen.netlify.app/) my portfolio 👀
+Check out [ my portfolio 👀](https://portfolio-patrycja-oosthuizen.netlify.app/)
 
 # Connect with me:
 * 📧 Email: [oosthuizen.code@gmail.com](oosthuizen.code@gmail.com)
