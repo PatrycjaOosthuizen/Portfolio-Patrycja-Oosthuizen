@@ -260,7 +260,7 @@ const translations = {
   },
   aboutMeP4: {
     EN: "I continuously developing my coding skills, currently completing",
-    PL: "Wciąż rozszerzam swoją wiedzę, obecnie rozpoczęłam kurs",
+    PL: "Nieustannie poszerzam swoją wiedzę, obecnie rozpoczęłam kurs",
   },
   aboutMeP5: {
     EN: "CS50’s Introduction to Programming with Python at Harvard University.",
@@ -268,7 +268,7 @@ const translations = {
   },
   aboutMeP6: {
     EN: "My goal is to become a full stack developer. Currently I'm seeking a challenging, dynamic and rewarding career in a growth-oriented organisation where I can apply my skills and gain knowledge. I'm lifelong learner outgoing and ambitious, with a strong desire for self-improvement, both personally and professionally.",
-    PL: "Moim celem jest kontynuowanie nauki aby rozszerzyć wiedzę do full-stack. Obecnie poszukuję pełnej wyzwań, dynamicznej firmy z korzystnymi warunkami do rozwoju swojej kariery. Posiadam umiejetność analitycznego myślenia, samodzielnego rozwiązywania problemów i ogromną pasję do technologii. Jestem osobą ambitną która pragnie samodoskonalenia, zarówno osobistego, jak i zawodowego.",
+    PL: "Moim celem jest kontynuowanie nauki aby rozszerzyć wiedzę do full-stack. Obecnie poszukuję pełnej wyzwań, dynamicznej firmy z korzystnymi warunkami do rozwoju swojej kariery. Posiadam umiejetność analitycznego myślenia, samodzielnego rozwiązywania problemów i ogromną pasję do nowych technologii. Jestem osobą ambitną która dąży do samodoskonalenia, zarówno osobistego, jak i zawodowego.",
   },
   aboutFactsHeading: {
     EN: "Random facts about me:",
