@@ -263,8 +263,8 @@ const translations = {
     PL: "Nieustannie poszerzam swoją wiedzę, obecnie rozpoczęłam kurs",
   },
   aboutMeP5: {
-    EN: "CS50’s Introduction to Programming with Python at Harvard University.",
-    PL: "CS50's wprowadzenie do programowania z Python na Uniwersytecie Harvard.",
+    EN: "CS50’s Web Programming with Python and JavaScript at Harvard University.",
+    PL: "CS50's Programowanie z Python i JavaScript na Uniwersytecie Harvard.",
   },
   aboutMeP6: {
     EN: "My goal is to become a full stack developer. Currently I'm seeking a challenging, dynamic and rewarding career in a growth-oriented organisation where I can apply my skills and gain knowledge. I'm lifelong learner outgoing and ambitious, with a strong desire for self-improvement, both personally and professionally.",
