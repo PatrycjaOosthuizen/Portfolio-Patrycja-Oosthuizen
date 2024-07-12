@@ -643,7 +643,7 @@ footer {
   background: url("/src/hero.jpg");
   background-repeat: no-repeat;
   background-size: cover;
-  height: 24vh;
+  height: 25vh;
   padding-top: 10px;
 }
 footer h5 {
@@ -868,16 +868,6 @@ footer .po-code-logo {
   .nav-link {
     font-size: 17px;
   }
-  .hero-container {
-    height: 105vh;
-    padding: 8px;
-  }
-  .hero-container h2 {
-    font-size: 24px;
-  }
-  .hero-container h1 {
-    font-size: 40px;
-  }
 
   .blob {
     width: 30rem;
@@ -887,51 +877,19 @@ footer .po-code-logo {
     margin-top: 40px;
   }
   .blob2 {
-    width: 25rem;
-    height: 25rem;
+    width: 33rem;
+    height: 33rem;
     margin: 0 auto;
     display: block;
     margin-top: 100px;
   }
   .about-me-heading {
-    font-size: 28px;
-    margin-top: 26px;
+    font-size: 30px;
+    margin-top: 66px;
   }
   .about-me-text {
-    font-size: 17px;
-    line-height: 24px;
-  }
-  .intro-text {
-    font-size: 18px;
-    line-height: 25px;
-    margin-top: 27px;
-  }
-  .btn-primary {
-    font-size: 13px;
-  }
-  .contact-me .text-section {
-    padding: 90px 15px 20px 15px;
-  }
-
-  .contact-me h2 {
-    font-size: 32px;
-    line-height: 24px;
-    padding-left: 4px;
-  }
-  .contact-me h1 {
-    font-size: 48px;
-    padding-bottom: 25px;
-  }
-
-  .form-control {
-    font-size: 14px;
-  }
-  .btn-branding {
-    font-size: 14px;
-    padding: 12px 22px;
-  }
-  footer {
-    height: 21vh;
+    font-size: 20px;
+    line-height: 28px;
   }
 }
 
