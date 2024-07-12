@@ -561,9 +561,9 @@ h6 a {
 }
 
 .contact-me h2 {
-  font-size: 64px;
+  font-size: 54px;
   font-weight: 600;
-  line-height: 64px;
+  line-height: 44px;
   text-transform: none;
   text-align: left;
   color: #ffff;
@@ -583,7 +583,7 @@ h4 {
   border-radius: 100%;
 }
 .contact-me .text-section {
-  padding: 100px 10px 10px 270px;
+  padding: 100px 10px 10px 170px;
 }
 form {
   padding: 40px 80px 40px 0;
@@ -626,8 +626,8 @@ form {
   border-radius: 8px;
   border: none;
   color: #ffff;
-  font-weight: 800;
-  font-size: 19px;
+  font-weight: 700;
+  font-size: 17px;
   line-height: 24px;
   padding: 16px 32px;
   text-transform: uppercase;
@@ -643,7 +643,7 @@ footer {
   background: url("/src/hero.jpg");
   background-repeat: no-repeat;
   background-size: cover;
-  height: 25vh;
+  height: 24vh;
   padding-top: 10px;
 }
 footer h5 {
@@ -675,6 +675,108 @@ footer p {
 }
 footer .po-code-logo {
   max-width: 23px;
+}
+
+@media (min-width: 2560px) {
+  :root {
+    --sz: 1.8vmin;
+  }
+  .toggle {
+    width: calc(var(--sz) * 6);
+    height: calc(var(--sz) * 2);
+  }
+  .nav-link {
+    font-size: 25px;
+    text-align: end;
+    padding-right: 12px;
+  }
+  .hero-container {
+    padding-top: 185px;
+  }
+  .hero-container h2 {
+    font-size: 44px;
+  }
+  .hero-container h1 {
+    font-size: 77px;
+  }
+  .hero-text {
+    padding-left: 208px;
+  }
+  .heading-text {
+    font-size: 45px;
+  }
+  .intro-text {
+    margin-top: 125px;
+    font-size: 30px;
+    line-height: 42px;
+    font-weight: 300;
+  }
+  .blob {
+    width: 45rem;
+    height: 45rem;
+    margin: 0 auto;
+    display: block;
+  }
+  .card-title {
+    font-size: 30px;
+  }
+  .card-text {
+    font-size: 23px;
+  }
+  .btn-primary {
+    font-size: 22px;
+  }
+
+  .contact-me h2 {
+    font-size: 68px;
+    line-height: 44px;
+  }
+  .contact-me h1 {
+    font-size: 108px;
+    padding-bottom: 45px;
+  }
+  .contact-me h4 {
+    font-size: 36px;
+  }
+  .contact-me-paragraph {
+    font-size: 24px;
+    line-height: 36px;
+  }
+  form {
+    max-width: 750px;
+  }
+  #input-name,
+  #input-email {
+    padding: 30px 24px;
+  }
+  #input-subject {
+    padding: 26px 26px 150px 26px;
+  }
+  .form-control {
+    font-size: 22px;
+  }
+  .btn-branding {
+    font-size: 24px;
+    padding: 25px 40px;
+  }
+  footer h5 {
+    font-size: 23px;
+  }
+  footer li {
+    font-size: 20px;
+  }
+  footer .social-links {
+    font-size: 42px;
+  }
+  footer p {
+    font-size: 16px;
+  }
+  footer .po-code-logo {
+    max-width: 40px;
+  }
+  footer {
+    height: 21vh;
+  }
 }
 
 @media (min-width: 992px) {
@@ -756,7 +858,83 @@ footer .po-code-logo {
   .card .img-wrapper {
     height: 17em;
   }
+  :root {
+    --sz: 2.4vmin;
+  }
+  .toggle {
+    width: calc(var(--sz) * 6);
+    height: calc(var(--sz) * 2);
+  }
+  .nav-link {
+    font-size: 17px;
+  }
+  .hero-container {
+    height: 105vh;
+    padding: 8px;
+  }
+  .hero-container h2 {
+    font-size: 24px;
+  }
+  .hero-container h1 {
+    font-size: 40px;
+  }
+
+  .blob {
+    width: 30rem;
+    height: 30rem;
+    margin: 0 auto;
+    display: block;
+    margin-top: 40px;
+  }
+  .blob2 {
+    width: 25rem;
+    height: 25rem;
+    margin: 0 auto;
+    display: block;
+    margin-top: 100px;
+  }
+  .about-me-heading {
+    font-size: 28px;
+    margin-top: 26px;
+  }
+  .about-me-text {
+    font-size: 17px;
+    line-height: 24px;
+  }
+  .intro-text {
+    font-size: 18px;
+    line-height: 25px;
+    margin-top: 27px;
+  }
+  .btn-primary {
+    font-size: 13px;
+  }
+  .contact-me .text-section {
+    padding: 90px 15px 20px 15px;
+  }
+
+  .contact-me h2 {
+    font-size: 32px;
+    line-height: 24px;
+    padding-left: 4px;
+  }
+  .contact-me h1 {
+    font-size: 48px;
+    padding-bottom: 25px;
+  }
+
+  .form-control {
+    font-size: 14px;
+  }
+  .btn-branding {
+    font-size: 14px;
+    padding: 12px 22px;
+  }
+  footer {
+    height: 21vh;
+  }
 }
+
 @media (max-width: 576px) {
   :root {
     --sz: 5.1vmin;
@@ -874,7 +1052,7 @@ footer .po-code-logo {
     font-size: 15px;
   }
   footer {
-    height: 27vh;
+    height: 24vh;
   }
   body {
     margin: 0 2px;
