@@ -690,6 +690,7 @@ footer .po-code-logo {
     text-align: end;
     padding-right: 12px;
   }
+
   .hero-container {
     padding-top: 185px;
   }
@@ -716,6 +717,10 @@ footer .po-code-logo {
     height: 45rem;
     margin: 0 auto;
     display: block;
+  }
+  .blob2 {
+    width: 34rem;
+    height: 34rem;
   }
   .card-title {
     font-size: 30px;
@@ -779,11 +784,11 @@ footer .po-code-logo {
   }
 }
 
-@media (min-width: 992px) {
+@media only screen and (min-width: 992px) and (max-width: 1440px) {
   .hero-container {
     padding-top: 45px;
     padding-left: 30px;
-    height: 90vh;
+    height: 94vh;
     background-position: center;
   }
   .hero-container h2 {
@@ -858,6 +863,8 @@ footer .po-code-logo {
   .card .img-wrapper {
     height: 17em;
   }
+}
+@media only screen and (min-width: 576px) and (max-width: 768px) {
   :root {
     --sz: 2.4vmin;
   }
@@ -868,13 +875,30 @@ footer .po-code-logo {
   .nav-link {
     font-size: 17px;
   }
-
+  .hero-container {
+    padding-top: 45px;
+    height: 145vh;
+  }
+  .hero-text {
+    margin-top: 30px;
+  }
+  .hero-container h2 {
+    font-size: 27px;
+    text-align: center;
+  }
+  .hero-container h1 {
+    font-size: 60px;
+    text-align: center;
+  }
+  .intro-text {
+    margin-top: 30px;
+    margin-bottom: 30px;
+  }
   .blob {
     width: 30rem;
     height: 30rem;
     margin: 0 auto;
     display: block;
-    margin-top: 40px;
   }
   .blob2 {
     width: 33rem;
@@ -891,9 +915,34 @@ footer .po-code-logo {
     font-size: 20px;
     line-height: 28px;
   }
+  .contact-me .text-section {
+    padding: 90px 10px 10px 30px;
+  }
+  .contact-me h2 {
+    font-size: 38px;
+    line-height: 24px;
+  }
+  .contact-me h1 {
+    font-size: 58px;
+  }
+  .contact-me-paragraph {
+    font-size: 17px;
+    line-height: 22px;
+  }
+  .contacts i {
+    padding: 4px;
+    font-size: 17px;
+  }
+  .contact-me button {
+    font-size: 17px;
+  }
+  .btn-branding {
+    font-size: 24px;
+    padding: 12px 18px;
+  }
 }
 
-@media (max-width: 576px) {
+@media only screen and (min-width: 200px) and (max-width: 500px) {
   :root {
     --sz: 5.1vmin;
   }
@@ -912,7 +961,7 @@ footer .po-code-logo {
 
   .hero-container {
     padding-top: 2px;
-    height: 108vh;
+    height: 110vh;
     background-position: center;
   }
   .hero-container h2 {
@@ -1010,7 +1059,7 @@ footer .po-code-logo {
     font-size: 15px;
   }
   footer {
-    height: 24vh;
+    height: 26vh;
   }
   body {
     margin: 0 2px;
