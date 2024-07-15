@@ -679,14 +679,14 @@ footer .po-code-logo {
 
 @media (min-width: 2560px) {
   :root {
-    --sz: 1.8vmin;
+    --sz: 2.3vmin;
   }
   .toggle {
     width: calc(var(--sz) * 6);
     height: calc(var(--sz) * 2);
   }
   .nav-link {
-    font-size: 25px;
+    font-size: 26px;
     text-align: end;
     padding-right: 12px;
   }
@@ -785,7 +785,7 @@ footer .po-code-logo {
 }
 @media only screen and (min-width: 768px) and (max-width: 1024px) {
   :root {
-    --sz: 1.9vmin;
+    --sz: 2.3vmin;
   }
   .toggle {
     width: calc(var(--sz) * 6);
@@ -955,7 +955,7 @@ footer .po-code-logo {
   }
   .hero-container {
     padding-top: 45px;
-    height: 110vh;
+    height: 111vh;
   }
   .hero-text {
     margin-top: 30px;
