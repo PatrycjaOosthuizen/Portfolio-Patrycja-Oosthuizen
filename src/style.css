@@ -486,8 +486,8 @@ h6 a {
 }
 
 .intro-text {
-  margin-top: 110px;
-  margin-bottom: 50px;
+  margin-top: 75px;
+  margin-bottom: 70px;
   font-size: 22px;
   font-weight: 350;
 }
@@ -549,6 +549,9 @@ h6 a {
 }
 .card-text {
   color: var(--text-color);
+}
+.card-text-grad {
+  font-size: 12px;
 }
 .carousel-control-prev,
 .carousel-control-next {

@@ -62,40 +62,12 @@ const translations = {
     PL: "Jestem Jr. Front-end developerem w Londynie",
   },
   introPart1: {
-    EN: "Within my portfolio, I showcase a panel of significant achievements and tackled challenges. I applied my skills in",
-    PL: "W swoim portfolio przedstawiam panel osiągnięć i projektów. Użyłam ",
-  },
-  codingLan: {
-    EN: "HTML/CSS, JavaScript and React",
-    PL: "HTML/CSS, JavaScript i React",
-  },
-  introPart2: {
-    EN: "incorporating",
-    PL: "z wykorzystaniem",
-  },
-  bootstrap: {
-    EN: "Bootstrap",
-    PL: "Bootstrap",
-  },
-  introPart3: {
-    EN: "to design pages on various topics. I also integrated",
-    PL: "do projektowania stron o różnej tematyce. Integrowałam",
-  },
-  introPart4: {
-    EN: "and",
-    PL: "i",
-  },
-  api: {
-    EN: "API",
-    PL: "API",
-  },
-  apiS: {
-    EN: "APIs",
-    PL: "APIs",
+    EN: "Within my portfolio, I showcase a panel of significant achievements and tackled challenges.",
+    PL: "W swoim portfolio przedstawiam panel osiągnięć i projektów.",
   },
   introPart5: {
-    EN: "to increase the functionality of the applications I developed. Head over to my",
-    PL: "aby zwiększyć funkcjonalność tworzonych przeze mnie aplikacji. Przejdź na stronę moich",
+    EN: "Head over to my",
+    PL: "Przejdź na stronę moich",
   },
   homePageIntroLink: {
     EN: "projects",
@@ -114,8 +86,8 @@ const translations = {
     PL: "Uczestnictwo w tym kursie pozwoliło mi zdobyć wiedzę i solidne podstawy w tworzeniu stron internetowych. Ten program zapewnił mi niezbędne narzędzia do rozpoczęcia kariery Front-end developer.",
   },
   certCard2: {
-    EN: "I learned the basics of HTML, style with CSS, build interaction with JavaScript, and craft my first interactive landing page.",
-    PL: "Nauczyłam się podstaw HTML, CSS, budowania interakcji z JavaScript i stworzyłam moją pierwszą interaktywną stronę internetową.",
+    EN: "",
+    PL: "",
   },
   certCard3: {
     EN: "I gained knowledge about HTML class manipulation and advanced CSS: background properties, transform, grids and change theme.",
