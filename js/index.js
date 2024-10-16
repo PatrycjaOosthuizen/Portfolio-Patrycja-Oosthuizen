@@ -126,8 +126,8 @@ const translations = {
     PL: "Ten warsztat pomógł mi dopracować portfolio, przygotował i zmotywował do ciągłego udoskonalania aby rozpocząć karierę programisty.",
   },
   projects: {
-    EN: "Selected projects",
-    PL: "Wybrane Projekty",
+    EN: "Projects",
+    PL: "Projekty",
   },
   project1Heding: {
     EN: "React Weather App",
@@ -235,12 +235,12 @@ const translations = {
     PL: "Nieustannie poszerzam swoją wiedzę, obecnie rozpoczęłam kurs",
   },
   aboutMeP5: {
-    EN: "CS50’s Web Programming with Python and JavaScript at Harvard University.",
+    EN: "CS50’s Introduction to Computer Science at Harvard University.",
     PL: "CS50's Programowanie z Python i JavaScript na Uniwersytecie Harvard.",
   },
   aboutMeP6: {
-    EN: "My goal is to become a full stack developer. Currently I'm seeking a challenging, dynamic and rewarding career in a growth-oriented organisation where I can apply my skills and gain knowledge. I'm lifelong learner outgoing and ambitious, with a strong desire for self-improvement, both personally and professionally.",
-    PL: "Moim celem jest kontynuowanie nauki aby rozszerzyć wiedzę do full-stack. Obecnie poszukuję pełnej wyzwań, dynamicznej firmy z korzystnymi warunkami do rozwoju swojej kariery. Posiadam umiejetność analitycznego myślenia, samodzielnego rozwiązywania problemów i ogromną pasję do nowych technologii. Jestem osobą ambitną która dąży do samodoskonalenia, zarówno osobistego, jak i zawodowego.",
+    EN: "My ultimate goal is to become a proficient software developer. While I am still exploring various paths within this field, I am particularly interested in areas that allow for creativity and innovation. I aim to work for a growth-oriented company that values employee development and encourages individuals to reach their full potential. I believe that being part of such an environment will enable me to leverage 100% of my abilities while contributing meaningfully to the organization.",
+    PL: "Moim ostatecznym celem jest zostanie wykwalifikowanym programistą. Chociaż wciąż eksploruję różne ścieżki w tej dziedzinie, szczególnie interesują mnie obszary, które pozwalają na kreatywność i innowacje. Dążę do pracy w dynamicznej firmie , która ceni rozwój pracowników i zachęca jednostki do osiągania pełnego potencjału. Wierzę, że bycie częścią takiego środowiska umożliwi mi wykorzystanie 100% moich umiejętności, jednocześnie wnosząc znaczący wkład w organizację.",
   },
   aboutFactsHeading: {
     EN: "Random facts about me:",
