@@ -85,9 +85,17 @@ const translations = {
     EN: "I gained a solid foundation in web development. This program provided me with the necessary tools to start a Front-end career.",
     PL: "Uczestnictwo w tym kursie pozwoliło mi zdobyć wiedzę i solidne podstawy w tworzeniu stron internetowych. Ten program zapewnił mi niezbędne narzędzia do rozpoczęcia kariery Front-end developer.",
   },
-  certCard2: {
+  certCardCS50P: {
     EN: "",
     PL: "",
+  },
+  certCardCS50x: {
+    EN: "",
+    PL: "",
+  },
+  certCard2: {
+    EN: "I learned the basics of HTML, style with CSS, build interaction with JavaScript, and craft my first interactive landing page.",
+    PL: "Nauczyłem się podstaw HTML, stylizacji za pomocą CSS, budowania interakcji z JavaScript oraz tworzenia mojej pierwszej interaktywnej strony.",
   },
   certCard3: {
     EN: "I gained knowledge about HTML class manipulation and advanced CSS: background properties, transform, grids and change theme.",
