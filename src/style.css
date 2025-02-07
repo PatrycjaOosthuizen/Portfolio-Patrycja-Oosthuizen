@@ -526,6 +526,7 @@ h6 a {
   background-color: var(--secondary-color);
   border: none;
   text-transform: uppercase;
+  margin: 10px; /* Added margin for spacing */
 }
 .heading-text {
   text-transform: uppercase;
@@ -1016,10 +1017,6 @@ footer .po-code-logo {
   }
   .contact-me button {
     font-size: 17px;
-  }
-  .btn-branding {
-    font-size: 24px;
-    padding: 12px 18px;
   }
   footer {
     height: 21vh;
