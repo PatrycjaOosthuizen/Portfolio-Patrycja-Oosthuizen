@@ -58,8 +58,8 @@ const translations = {
     PL: "Witam w mojej cyfrowej przestrzeni! Nazywam się",
   },
   homePageTitle: {
-    EN: "I am a Jr. Front-end developer based in London, UK.",
-    PL: "Jestem Jr. Front-end developerem w Londynie",
+    EN: "I am an Aspiring Full Stack Developer based in London, UK.",
+    PL: "Jestem Jr. Full Stack Developerem w Londynie",
   },
   introPart1: {
     EN: "Within my portfolio, I showcase a panel of significant achievements and tackled challenges.",
@@ -227,7 +227,7 @@ const translations = {
     PL: "Witam, mam na imię Patrycja jestem Junior Front-end Developer",
   },
   aboutMeP1: {
-    EN: "I'm a self-motivated junior developer with a solid foundation and a strong passion for technology. My journey began with a significant career change, and since then I discovered a world I'm truly passionate about. I gained my knowledge on intensive",
+    EN: "I'm a self-motivated junior developer with a strong passion for technology and problem-solving. My journey into coding started with a career change, and since then, I've discovered a field that truly excites me. I first built my skills through the",
     PL: "Moja przygoda i pasja do programowania rozpoczęła się na intensywnym",
   },
   aboutMeP2: {
@@ -235,19 +235,19 @@ const translations = {
     PL: "Front-End Bootcamp",
   },
   aboutMeP3: {
-    EN: "I've honed skills in",
+    EN: "where I learned",
     PL: "gdzie zdobyłam i doskonaliłam swoje umiejętności w",
   },
   aboutMeP4: {
-    EN: "I continuously developing my coding skills, currently completing",
-    PL: "Nieustannie poszerzam swoją wiedzę, obecnie rozpoczęłam kurs",
+    EN: "To deepen my understanding, I completed",
+    PL: "Nieustannie poszerzam swoją wiedzę, na kursach",
   },
   aboutMeP5: {
-    EN: "CS50’s Introduction to Computer Science at Harvard University.",
-    PL: "CS50's Programowanie z Python i JavaScript na Uniwersytecie Harvard.",
+    EN: "Harvard's CS50x: Introduction to Computer Science and CS50p: Introduction to Programming with Python.",
+    PL: "CS50x Wprowadzenie do Informatyki and CS50p Programowanie z Python i JavaScript na Uniwersytecie Harvard.",
   },
   aboutMeP6: {
-    EN: "My ultimate goal is to become a proficient software developer. While I am still exploring various paths within this field, I am particularly interested in areas that allow for creativity and innovation. I aim to work for a growth-oriented company that values employee development and encourages individuals to reach their full potential. I believe that being part of such an environment will enable me to leverage 100% of my abilities while contributing meaningfully to the organization.",
+    EN: "Right now, I'm expanding into mobile development by working through the iOS & Swift - The Complete iOS App Development Bootcamp. I love continuously learning and challenging myself, and my ultimate goal is to become a well-rounded software developer. I'm still exploring different areas of development, but I'm especially drawn to creative and innovative projects that make a real impact. I'd love to work for a growth-oriented company that values learning and encourages people to reach their full potential. Being in that kind of environment would let me put my skills to good use while continuing to grow and contribute in meaningful ways.",
     PL: "Moim ostatecznym celem jest zostanie wykwalifikowanym programistą. Chociaż wciąż eksploruję różne ścieżki w tej dziedzinie, szczególnie interesują mnie obszary, które pozwalają na kreatywność i innowacje. Dążę do pracy w dynamicznej firmie , która ceni rozwój pracowników i zachęca jednostki do osiągania pełnego potencjału. Wierzę, że bycie częścią takiego środowiska umożliwi mi wykorzystanie 100% moich umiejętności, jednocześnie wnosząc znaczący wkład w organizację.",
   },
   aboutFactsHeading: {
