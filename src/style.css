@@ -495,7 +495,8 @@ h6 a {
   color: var(--secondary-color);
 }
 .intro-text a:hover {
-  opacity: 0.8;
+  color: #118a7e;
+  transition: 0.2s ease, color 0.2s ease;
 }
 
 .about-me-heading {
