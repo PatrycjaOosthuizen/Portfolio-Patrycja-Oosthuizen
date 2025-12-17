@@ -137,6 +137,14 @@ const translations = {
     EN: "Projects",
     PL: "Projekty",
   },
+  project0Heding: {
+    EN: "Learn and Practice Cybersecurity App",
+    PL: "Aplikacja do Nauki i Praktyki Cyberbezpieczeństwa",
+  },
+  project0: {
+    EN: "This platform was developed for NCFE Level 3 cybersecuritypreparation. It includes 250+ quiz questions, flashcards, progress tracking, and teacher dashboards.",
+    PL: "Ta platforma została stworzona do przygotowania do certyfikacji NCFE Level 3 z cyberbezpieczeństwa. Zawiera ponad 250 pytań quizowych, fiszki, śledzenie postępów oraz panele dla nauczycieli.",
+  },
   project1Heding: {
     EN: "React Weather App",
     PL: "Aplikacja Pogodowa React",
