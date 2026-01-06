@@ -30,6 +30,12 @@ document.addEventListener("DOMContentLoaded", function () {
   switchElement.addEventListener("click", toggleLanguage);
 
   toggleLanguage();
+
+  // footer auto-update year AFTER translation runs
+  const yearElement = document.getElementById("currentYear");
+  if (yearElement) {
+    yearElement.textContent = new Date().getFullYear();
+  }
 });
 
 document.addEventListener("DOMContentLoaded", function () {
