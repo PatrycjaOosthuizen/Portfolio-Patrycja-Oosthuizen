@@ -185,7 +185,7 @@ const translations = {
   },
   project5Heding: {
     EN: "World Clock App",
-    PL: "Apikacja - Zegar Świata",
+    PL: "Apikacja | Zegar Świata",
   },
   project5: {
     EN: "The user-friendly dashboard shows time in four distinct locations. Select from a list of 59 cities using a dropdown menu. Customize experience with a choice between light and dark mode.",
@@ -193,7 +193,7 @@ const translations = {
   },
   project6Heding: {
     EN: "Vanilla JS Weather App",
-    PL: "Aplikacja Pogodowa - Vanilla JavaScript",
+    PL: "Aplikacja Pogodowa | Vanilla JavaScript",
   },
   project6: {
     EN: "Switch between Celsius and Fahrenheit units to check the current temperature. This app is powered by the SheCodes Weather API, ensuring accurate and up-to-date weather information.",
