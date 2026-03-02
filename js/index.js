@@ -64,8 +64,8 @@ const translations = {
     PL: "Witam w mojej cyfrowej przestrzeni! Nazywam się",
   },
   homePageTitle: {
-    EN: "I am an Aspiring Full Stack Developer based in London, UK.",
-    PL: "Jestem Jr. Full Stack Developerem w Londynie",
+    EN: "Junior Developer with a growing focus on cybersecurity and network security, based in London, UK.",
+    PL: "Młodsza programistka rozwijająca się w kierunku cyberbezpieczeństwa i bezpieczeństwa sieci, mieszkająca w Londynie, Wielka Brytania.",
   },
   introPart1: {
     EN: "Within my portfolio, I showcase a panel of significant achievements and tackled challenges.",
@@ -326,7 +326,7 @@ form.addEventListener("submit", handleSubmit);
 
 document.addEventListener("DOMContentLoaded", function () {
   let multipleCardCarousel = document.querySelector(
-    "#carouselCertificatesControls"
+    "#carouselCertificatesControls",
   );
 
   if (window.matchMedia("(min-width: 768px)").matches) {
@@ -367,7 +367,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
 document.addEventListener("DOMContentLoaded", function () {
   let multipleCardCarousel = document.querySelector(
-    "#carouselProjectsControls"
+    "#carouselProjectsControls",
   );
 
   if (window.matchMedia("(min-width: 768px)").matches) {
